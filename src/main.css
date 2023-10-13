@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{ 
+    font-family: monospace;
+}
+
+
+.app__main{ 
+    
+    width:100%;
+    position: relative;
+    top:0;
+    left:0;
+    height:100vh;
+    
+}
+
+.store{ 
+    
+    
+    position: relative;
+    margin-left:2rem;
+    padding:5px 15px;
+    display:flex; 
+    justify-content: center;
+    gap:2rem;
+    align-items: start;
+    flex-wrap: wrap;
+  
+    
+   
+    
+} 
+
+
+@media all and (max-widht:759px){
+     
+   
+}

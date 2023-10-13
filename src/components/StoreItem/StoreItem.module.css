@@ -1,0 +1,48 @@
+
+button{
+    cursor:pointer;
+}
+
+.main{ 
+    display:flex; 
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1rem;
+    
+  
+   
+}
+
+.item__button{
+     color:white;
+     background-color: rgb(89, 89, 247);
+     border:none;
+     padding:5px 15px;
+     border-radius: 15px;
+}
+
+.adder{ 
+    display:flex;
+    gap:1rem;
+     
+}
+
+.plus{ 
+    
+     color:white;
+     background-color: rgb(89, 89, 247);
+     border:none;
+     padding:3px 15px;
+     border-radius: 15px;
+     font-size:1.2rem;
+     align-items: center;
+     
+
+}
+
+.count{ 
+    text-align: center;
+    margin-top:auto;
+    margin-bottom: auto;
+    font-size: 1rem;
+}

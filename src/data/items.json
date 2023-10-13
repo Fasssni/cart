@@ -1,0 +1,51 @@
+[ 
+    { 
+        "id":0,
+        "name":"iPhone 15 Pro", 
+        "url":"/public/images/iphone15pro.jpeg", 
+        "price":1000
+    },
+    { 
+        "id":1,
+        "name":"iPhone 14", 
+        "url":"/public/images/iphone14.jpeg",
+        "price":900
+    },
+    { 
+        "id":2,
+        "name":"iPhone 13", 
+        "url":"/public/images/iphone13.jpeg",
+        "price":800
+    },
+    { 
+        "id":4,
+        "name":"iPhone 15 Pro", 
+        "url":"/public/images/iphonese.jpeg", 
+        "price":700
+    },
+    { 
+        "id":5,
+        "name":"iPhone 15 Pro", 
+        "url":"/public/images/iphonese.jpeg", 
+        "price":700
+    },
+    { 
+        "id":6,
+        "name":"iPhone 15 Pro", 
+        "url":"/public/images/iphone15pro.jpeg", 
+        "price":1000
+    },
+    { 
+        "id":7,
+        "name":"iPhone 14", 
+        "url":"/public/images/iphone14.jpeg",
+        "price":900
+    },
+    { 
+        "id":8,
+        "name":"iPhone 13", 
+        "url":"/public/images/iphone13.jpeg",
+        "price":800
+    }
+
+]
